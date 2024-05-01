@@ -194,3 +194,8 @@ before,subject,it では正常にletが出力されている
 
 letは呼び出された時に実行されるので、エラー出る時がある。
 遅延評価がテストの失敗の原因になっている場合は let! を使うとexample の実行前に定義した値が作られる。
+
+参考
+https://qiita.com/jnchito/items/42193d066bd61c740612
+
+https://qiita.com/jnchito/items/cdd9eef2ed193267c651
