@@ -7,9 +7,9 @@ class: invert
 
 # About this contents
 
-GitHub Pages: [https://inoue-ryoki.github.io/sample_marp/](https://inoue-ryoki.github.io/rspec-study/)
+GitHub Pages: [https://inoue-ryoki.github.io/rspec-study/](https://inoue-ryoki.github.io/rspec-study/)
 
-Repository: [https://github.com/inoue-ryoki/sample_marp - GitHub](https://github.com/inoue-ryoki/rspec-study)
+Repository: [https://github.com/inoue-ryoki/rspec-study - GitHub](https://github.com/inoue-ryoki/rspec-study)
 
 # Rspecの処理の順番
 
